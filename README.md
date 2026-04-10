@@ -76,3 +76,25 @@ It provides insights into sales performance, customer distribution, orders, and 
 ---
 
 ## 📂 Project Structure
+(https://github.com/zeinaalanwer/Sales-Dashboard/blob/c150a2abb390633aa91dc6ad95b9006a9cf1d344/project2.pbix)
+
+
+---
+
+## 🎯 Conclusion
+This dashboard helps stakeholders:
+- Make data-driven decisions  
+- Identify high-performing products & regions  
+- Monitor financial performance effectively  
+
+---
+
+## 📬 Contact
+If you like this project or want a similar dashboard:
+
+- 💼 LinkedIn: *(www.linkedin.com/in/zeina-al-anwar)*
+- 📧 Email: *(zeinalanour@gmail.com)*
+
+---
+
+⭐ Don't forget to **star the repo** if you found it useful!
