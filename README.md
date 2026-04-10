@@ -58,7 +58,8 @@ It provides insights into sales performance, customer distribution, orders, and 
 ## 📷 Dashboard Preview
 
 ### 🖥️ Main Dashboard
-![Dashboard 1](sales1power bi.png)
+![Dashboard 1](https://github.com/zeinaalanwer/Sales-Dashboard/blob/97e3fe2ee4bc4d808a321d92205029fa54a2992f/sales1power%20bi.png)
+
 
 ### 📊 Detailed Insights
 ![Dashboard 2](https://github.com/zeinaalanwer/Sales-Dashboard/blob/b4afd97b8d5da76f23759b2d71d5f74605ee82b8/sales2power%20bi.png)
