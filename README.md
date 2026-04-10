@@ -61,7 +61,7 @@ It provides insights into sales performance, customer distribution, orders, and 
 ![Dashboard 1](sales1power bi.png)
 
 ### 📊 Detailed Insights
-![Dashboard 2](sales 2 power bi.png)
+![Dashboard 2](sales1power bi.png)
 
 ---
 
